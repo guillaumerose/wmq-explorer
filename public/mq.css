@@ -1,0 +1,53 @@
+body {
+	margin: 0;
+	padding: 0;	
+}
+
+#general {
+	width: 1230px;
+	margin: 1em auto 1em auto;
+}
+
+#console {
+  margin: 5em auto 1em auto;
+  width: 1230px;
+  height: 1em;
+}
+
+.queue_left {
+	float: left;
+	width: 600px;
+	padding-right: 13px;
+}
+
+.queue_right {
+	float: right;
+	width: 600px;
+	padding-left: 13px;
+}
+
+.messages {
+	margin: 1em 0 1em 0;	
+}
+
+.message {
+	padding: 0.5em;
+	border: 1px solid #ccc;	
+	margin-bottom: 0.5em;
+}
+
+.clear {
+	clear: both;
+}
+
+.write {
+	margin-top: 2em;
+}
+
+textarea {
+	border: 1px solid #ccc;
+}
+
+pre {
+  margin: 0;
+}
